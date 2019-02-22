@@ -1,0 +1,8 @@
+# {{Enter date}}
+
+## Things discovered
+
+* 
+
+
+
