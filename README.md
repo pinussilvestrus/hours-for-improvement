@@ -5,3 +5,17 @@ This project is meant to document the weekly progress of the so-called "Hours fo
 The idea comes from a personal discussion on personal development while my working [@Camunda](https://github.com/camunda). I decided to take some of my time at the office to investigate in my development as a software developer. The goal is to make new experiences, learn new stuff and become a better developer.
 
 The Hours of Improvement are dealt inside the *Slack Time* [@Camunda](https://github.com/camunda).
+
+## Add new hour post
+
+For adding a new hour post for *current* date simply type
+
+```sh
+$ npm run add
+```
+
+To specify a *specific* date add the `--date` argument
+
+```sh
+$ npm run add -- --date 21-02-2019
+```

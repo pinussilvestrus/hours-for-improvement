@@ -1,0 +1,25 @@
+{
+  "name": "hours-for-improvement",
+  "version": "1.0.0",
+  "description": "This project is meant to document the weekly progress of the so-called \"Hours for Improvement\" sessions. They take place to create new personal experiences in different topics, e.g., exploring new technologies, learn about software development techniques, or make learnings in the way of solving problems. After every session, a summary will be created with the things I discovered in the hours.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "add": "node resources/addPost.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinussilvestrus/hours-for-improvement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinussilvestrus/hours-for-improvement/issues"
+  },
+  "homepage": "https://github.com/pinussilvestrus/hours-for-improvement#readme",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "moment": "^2.24.0",
+    "mri": "^1.1.4"
+  }
+}
