@@ -38,17 +38,19 @@ const template = fs.readFileSync(`${__dirname}/template.md`, 'utf8');
 
 const dateHead = dateToHead(currentDate);
 
+const currentYear = currentDate.getFullYear().toString();
+
 const dateFilename = dateToFilename(currentDate);
 
 const content = template.replace(DATE_TEMPLATE, dateHead);
 
 try {
-    fs.writeFileSync(`hours/${dateFilename}`, content);
+    fs.writeFileSync(`hours/${currentYear}/${dateFilename}`, content);
 } catch (e) {
     console.log(e)
 }
 
-console.log(`Created new post 'hours/${dateFilename}'`);
+console.log(`Created new post 'hours/${currentYear}/${dateFilename}'`);
 
 
 
