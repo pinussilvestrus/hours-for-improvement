@@ -6,6 +6,14 @@ The idea comes from a personal discussion on personal development while my worki
 
 The Hours of Improvement are dealt inside the *Slack Time* [@Camunda](https://github.com/camunda).
 
+## Contents
+
+### 2019
+
+* [February 21st](./hours/2019/21-02-2019.md)
+* [February 27th](./hours/2019/27-02-2019.md)
+* [March 6th](./hours/2019/06-03-2019.md)
+
 ## Add new hour post
 
 For adding a new hour post for *current* date simply type
