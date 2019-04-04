@@ -14,6 +14,7 @@ The Hours of Improvement are dealt inside the *Slack Time* [@Camunda](https://gi
 * [February 27th](./hours/2019/27-02-2019.md)
 * [March 6th](./hours/2019/06-03-2019.md)
 * [March 28th](./hours/2019/28-03-2019.md)
+* [April 4th](./hours/2019/04-04-2019.md)
 
 ## Add new hour post
 
