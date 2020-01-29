@@ -2,7 +2,7 @@
 
 This project is meant to document the weekly progress of the so-called "Hours for Improvement" sessions. They take place to create new personal experiences in different topics, e.g., exploring new technologies, learn about software development techniques, or make learnings in the way of solving problems. After every session, a summary will be created with the things I discovered in the hours.
 
-The idea comes from a personal discussion on personal development while my working [@Camunda](https://github.com/camunda). I decided to take some of my time at the office to investigate in my development as a software developer. The goal is to make new experiences, learn new stuff and become a better developer.
+The idea comes from a personal discussion on personal development while working [@Camunda](https://github.com/camunda). I decided to take some of my time at the office to investigate in my development as a software developer. The goal is to make new experiences, learn new stuff and become a better developer.
 
 The Hours of Improvement are dealt inside the *Slack Time* [@Camunda](https://github.com/camunda).
 
@@ -33,6 +33,9 @@ The Hours of Improvement are dealt inside the *Slack Time* [@Camunda](https://gi
 * [October 30th](./hours/2019/30-10-2019.md)
 * [November 7th](./hours/2019/07-11-2019.md)
 * [November 20th](./hours/2019/20-11-2019.md)
+
+### 2020
+* [January 29th](./hours/2020/29-01-2020.md)
 
 ## Add new hour post
 
