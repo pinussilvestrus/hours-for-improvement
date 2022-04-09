@@ -19,7 +19,7 @@
   "homepage": "https://github.com/pinussilvestrus/hours-for-improvement#readme",
   "dependencies": {
     "dateformat": "^3.0.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mri": "^1.1.4"
   }
 }
